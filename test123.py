@@ -7,4 +7,4 @@ hostname = socket.gethostname()
 pid = str(os.getpid())
 
 print (pid)
-time.sleep(3)
+time.sleep(1)
